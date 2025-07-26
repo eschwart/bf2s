@@ -1,9 +1,9 @@
 [package]
 name = "bf2s"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 license = "MIT"
-repository = "https://github.com/splurf/bf2s"
+repository = "https://github.com/eschwart/bf2s"
 description = "A simple Brainfuck interpreter that executes code from a string and returns the output as a string."
 keywords = ["brainfuck", "interpreter", "esolang", "parser", "string-output"]
 categories = ["command-line-utilities", "parsing", "text-processing"]
